@@ -1,7 +1,6 @@
-import React, { Component } from 'react';
-import { Container, Image } from 'react-bootstrap';
+import React from 'react';
+import { Container } from 'react-bootstrap';
 import SearchBar from './SearchBar';
-import background from '../img/background.jpg';
 
 const SearchPage = () => {
     return (
