@@ -19,9 +19,9 @@ code {
 }
 
 .footer{
-  margin-top: 1rem;
-  padding: 1rem;
-  background-color: rgb(235, 195, 64);
+  margin-top: 1%;
+  padding-top: 0.5%;
+  border-top: 1px solid grey;
   position: fixed;
   bottom: 0;
   left: 0;

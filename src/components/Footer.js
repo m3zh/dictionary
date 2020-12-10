@@ -3,7 +3,9 @@ import '../index.css'
 
 const Footer = () => (
   <div className="footer">
-    <p>&copy; Zhang Zihan - All rights reserved </p>
+    <h6 className="small">&copy; Zhang Zihan - All rights reserved
+      <br/>
+    <u>Credits</u></h6>
   </div>
 );
 
