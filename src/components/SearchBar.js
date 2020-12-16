@@ -1,7 +1,7 @@
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
-class SearchBar = () => {
+const SearchBar = () => {
   return (
     <div className="align-self-center w-75">
       <h1 className="mw-100 text-center">Look up the history of a Chinese character</h1>
