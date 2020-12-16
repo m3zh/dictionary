@@ -13,7 +13,6 @@ class SearchBar extends React.Component {
   };
 
   return (
-    <>
     <div className="align-self-center w-75">
       <h1 className="mw-100 text-center">Look up the history of a Chinese character</h1>
       <div className="input-group min-height">
@@ -23,7 +22,6 @@ class SearchBar extends React.Component {
           </span>
       </div>
     </div>
-    </>
     )
 };
 
