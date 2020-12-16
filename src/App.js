@@ -1,3 +1,5 @@
+import React from "react";
+import ReactDOM from "react-dom";
 import NavBar from './components/NavBar';
 import SearchPage from './components/SearchPage';
 import Footer from './components/Footer';
