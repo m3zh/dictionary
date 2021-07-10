@@ -2,7 +2,7 @@ import React from 'react';
 import { Container } from 'react-bootstrap';
 import SearchBar from './SearchBar';
 
-const SearchPage = () => {
+const CharPage = () => {
     return (
       <Container className="min-vh-100 d-flex flex-column justify-content-start mt-5" fluid>
         <SearchBar />
@@ -10,4 +10,4 @@ const SearchPage = () => {
     )
 };
 
-export default SearchPage;
+export default CharPage;
